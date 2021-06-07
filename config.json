@@ -1,0 +1,22 @@
+{
+  "prefix": "+",
+  "verified": "✔️",
+  "error": "✖️",
+  "threshold": 10000,
+    "amount": 5,
+  "giveawayRole": "OWNER",
+
+    "everyoneMention": false,
+    "hostedBy": true,
+    "botsCanWin": false,
+
+    "embedColor": "#ff2973",
+    "embedColorEnd": "#ff2936",
+    "reaction": "🥺",
+    "giveawayEmoji": "🤣",
+    "token": "ODQ3MzA3MTU2OTgxNDE1OTU2.YK8KSA.04E5emPqDwtU7rKl-MRej8My4mg",
+    "default_prefix": "+",
+    "img":"",
+    "color":""
+
+}
