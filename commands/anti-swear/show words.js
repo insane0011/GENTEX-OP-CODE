@@ -17,7 +17,7 @@ module.exports = {
             });
 
             embed.setDescription(`${array.join('\n')}`);
-            embed.setFooter(message.author.tag + " | made by LΣGΣПD#0001", message.author.displayAvatarURL({ dynamic: true }))
+            embed.setFooter(message.author.tag, message.author.displayAvatarURL({ dynamic: true }))
         } else {
           return message.channel.send(":x: | **There are No words.**")
         }
